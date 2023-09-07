@@ -15,7 +15,7 @@ static struct env {
 } env;
 
 const char *argp_program_version = "tracer 0.0";
-const char *argp_program_bug_address = "<tbd>";
+const char *argp_program_bug_address = "<yang.gao@some.ox.ac.uk>(legit till 2025)";
 const char argp_program_doc[] = "BPF tracer application.\n"
 					"\n"
 					"It traces process start and exits and shows associated \n"
